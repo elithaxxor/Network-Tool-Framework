@@ -1,5 +1,8 @@
 # Network-Tool-Framework
 
+
+## TODO: Find the local git Repo where the tools are separated into individual classes and GUI is wrapped with many options. Note to self. Do not use Git on an asycynhonous cloud server. 
+
 Network-Tool-Framework is a comprehensive Python-based tool designed to perform full network assessments, enumeration, and report generation. This tool provides functionalities to unlock various network details and generate detailed reports in PDF format with visual representations.
 
 ## Features
